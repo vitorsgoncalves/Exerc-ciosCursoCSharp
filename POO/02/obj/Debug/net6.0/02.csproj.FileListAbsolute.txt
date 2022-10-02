@@ -1,0 +1,15 @@
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.csproj.AssemblyReference.cache
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.AssemblyInfoInputs.cache
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.AssemblyInfo.cs
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.csproj.CoreCompileInputs.cache
+/home/vitor/Documentos/cesar inova/atividades/POO/02/bin/Debug/net6.0/02
+/home/vitor/Documentos/cesar inova/atividades/POO/02/bin/Debug/net6.0/02.deps.json
+/home/vitor/Documentos/cesar inova/atividades/POO/02/bin/Debug/net6.0/02.runtimeconfig.json
+/home/vitor/Documentos/cesar inova/atividades/POO/02/bin/Debug/net6.0/02.dll
+/home/vitor/Documentos/cesar inova/atividades/POO/02/bin/Debug/net6.0/ref/02.dll
+/home/vitor/Documentos/cesar inova/atividades/POO/02/bin/Debug/net6.0/02.pdb
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.dll
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/ref/02.dll
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.pdb
+/home/vitor/Documentos/cesar inova/atividades/POO/02/obj/Debug/net6.0/02.genruntimeconfig.cache
