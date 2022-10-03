@@ -1,0 +1,12 @@
+#Formato:
+#Código;tipo;nome;descrição;preço;validade;peso
+0;pão;pão branco;pão branco comum;2,00;3;50
+1;pão;pão integral;pão integral comum;4,00;4;55
+2;recheio;catupiry;catupiry comum;1,00;2;20
+3;recheio;frango;recheio de frango desfiado;3,00;3;50
+4;molho;molho de tomate;molho de tomate comum;0,50;5;5
+5;molho;molho branco;molho branco comum;1,00;3;5
+6;massa;massa frita;massa frita simples;1,50;3;20
+7;massa;massa assada;massa assada simples;1,50;6;20
+8;borda;borda simples;borda simples sem recheio;0,00;6;0
+9;borda;borda recheada;borda recheada com quaijo;2,00;2;40

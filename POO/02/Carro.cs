@@ -25,6 +25,10 @@ namespace Ex2
             return _gasolina;
         }
 
+        public float ObterQuilometragem(){
+            return _quilometragem;
+        }        
+
         public bool AdicionarGasolina(float quantidade){
             _gasolina += quantidade;
             return true;
